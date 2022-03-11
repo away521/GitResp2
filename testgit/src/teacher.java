@@ -7,4 +7,5 @@
 public class teacher {
     private String tname;
     private String tage;
+    private int tsui;
 }
